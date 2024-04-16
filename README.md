@@ -1,2 +1,2 @@
-# CNN-Stars
-CNN Stars type
+# Classification of Stars
+Stars classification by CNN
